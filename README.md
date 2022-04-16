@@ -1,5 +1,7 @@
 # React-Native-Docs
 React Native Crash Codes For App Development
+- All codes are available in components folder
+- To run the app install node modules by 'npm install i' and then 'npm start'
 
 # Topic Covered
 - Hello World Program
